@@ -22,6 +22,7 @@ public class Ex1FixacaoRetangulo {
 		
 		sc.close();
 		
+		//Alteração apenas para teste de commit no git
 	}
 
 }
